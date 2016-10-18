@@ -1,0 +1,10 @@
+FEATURES :
+Screen Size 15.6 Inche,
+Weight	1.6 Kg,
+Product Dimensions 45 x 30 x 7.2 cm,
+Processor Brand	Intel,
+Processor Type Core i5 6200U,
+Processor Speed 2.3 GHz,
+RAM Size 4 GB,Hard Drive Size	1 TB,Hard Disk Technology : Mechanical Hard Drive,
+Graphics Coprocessor	Intel Integrated Graphics.
+

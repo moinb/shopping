@@ -1,0 +1,9 @@
+FEATURES :
+Height	21 Millimeters,Width 30 Centimeters.
+Screen Size 11.6 Inches.
+Maximum Display Resolution 1366x768.
+Item Weight	1.2 Kg,Product Dimensions 20.6 x 30 x 2.1 cm.
+Item model number S003TU,Processor Brand	Intel.
+Processor Type	Celeron N3050,Processor Speed	1.6 GHz,RAM Size 2 GB.
+Memory Technology DDR3L,
+Hard Drive Size	500 GB,Hard Disk Technology	Serial ATA.
