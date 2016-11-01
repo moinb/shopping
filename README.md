@@ -1,16 +1,35 @@
 # shopping
 
-This programme is similar to Amazon or Flipkart.
+TITLE : SHOPPING AND MAKING BILL
 
+NAME : MOIN BANGI
 
-Features available at this time:
-  product details or discription in electronics section,
-  product image in electronics section
+MIS : 111508013
 
+DISCRIPTION :
+  <******* >PASSWORD IS :	coep.
+  <******* >WHEN YOU ARE PAYING BY CARD YOUR CARD PIN IS : 1864 .
+  
+  ALL ITEMS ARE IN STOCK .
 
-Features available in future:
-  shopping cart
-  stock
-  product details or discription in other sections,
-  product image in other sections.
+	THIS PROGRAM RUNS MOSTLY ON ENTER , UP AND DOWN ARROW KEYS , KEY f AND KEY B.
+
+	THIS PROJECT IS SIMILAR TO AMAZON OR FLIPKART SHOPPING. START WINDOW IS AS IN SCREENSHOT_1.
+	
+  THERE ARE 4  SECTIONS : ELECTRONICS , FASHION , MUSIC , SPORTS AS IN SCREENSHOT_2.
+	
+	YOU CAN ALSO CHANGE YOUR ADDRESS FROM THIS WINDOW.
+	
+	PROGRAM WILL GENERATE APPROPRIATE ERROR MESSAGE LIKE YOU ARE TRYING TO PAY WHEN YOUR CART IS 
+	EMPTY (SCREENSHOT_3).
+	
+	YOU CAN REMOVE ITEEMS ADDED TO CART (SCREENSHOT_4)
+	
+	PROGRAM WILL SHOW IMAGE AND FEATURES OF ITEM YOU CHOOSE !!! (SCREENSHOT_5).
+	
+  PROGRAM WILL THANK YOU BY SCROLLING TEXT AS IN SCREENSHOT_6.
+	
+	FINALLY BILL IS PRODUCED (SCREENSHOT_7).  
+	
+	!!!!!!!!!!!!!!!!! ENJOY SMALL SHOPPING EXPERIANCE !!!!!!!!!!!!!!!!!!
   
