@@ -1,0 +1,11 @@
+FEATURES :
+
+| Color               : Black,
+| Warranty Period     : 1 year,
+| Wired/Wireless      : Wired,
+| With or Without Mic : With Mic,
+| Jack Diameter       : 3.5 mm,
+| Tangle Free Cord    : No,
+| Noise Cancellation  : Yes,
+| Type                : In Ear,
+| Frequency Response  : 20 to 22kHz.

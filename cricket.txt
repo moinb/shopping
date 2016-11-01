@@ -1,0 +1,8 @@
+FEATURES :
+
+| Brand			:GM,
+| Included Components   :1 bat,1 ball,1 pair batting gloves,1 pair batting pad,
+|			 1 thigh pad,abdominal guard,arm guard and bag,
+| Willow		:Kashmir,
+| Size			:Size-6,
+| Sport			:cricket .

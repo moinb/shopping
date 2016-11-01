@@ -1,0 +1,11 @@
+FEATURES:
+
+| Model Number 	65W (0) 01 006,
+| Item Height 	48 Centimeters,
+| Item Length 	33 Centimeters,
+| Item Width 	20 Centimeters,
+| Item Weight 	500 Grams,
+| Material 	Synthetic,
+| Water Resistance  Not Water Resistant,
+| Warranty Description 	1 year,
+| Warranty Type  Manufacturer .

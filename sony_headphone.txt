@@ -1,0 +1,11 @@
+FEATURES :
+
+| Brand			:Sony
+| Model			:MDR-ZX110A
+| Item Weight		:191 g
+| Product Dimensions	:19 x 13 x 3.4 cm
+| Item model number	:MDR-ZX110A
+| Additional Features	:on-ear
+| Microphone Form Factor:without microphone
+| Batteries Included	:No
+| Connector Type	:wired-3.5mm single pin

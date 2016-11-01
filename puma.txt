@@ -1,0 +1,9 @@
+FEATURES :
+
+| Material          : Synthetic,
+| Lifestyle         : Casual,
+| Closure Type      : Lace-UP,
+| Warrenty Type     : Manufacturer,
+| Product Warrenty Against Manufacturing Defects : 90 Days,
+| Care Instructions :Dust Any Dry Dirt From Surface Usin Clean Cloth,
+|                    Do Not Use Polish Or Shiner,Allow Your Pair Of Shoes To Air.

@@ -1,0 +1,16 @@
+FEATURES:
+
+| Band Colour 	Brown,
+| Band Material Leather,
+| Brand  Timex,
+| Case Material Brass,
+| Dial Colour 	Silver,
+| Display Type 	Analog,
+| Case Shape 	Round,
+| Item Weight 	118 Grams,
+| Model Number 	TW002E101,
+| Part Number 	TW002E101,
+| Warranty Type  Manufacturer,
+| Movement﻿  Quartz,
+| Water Resistance Depth 30 Meters,
+| Warranty Description 	1 Year .

@@ -1,0 +1,15 @@
+FEATURES :
+
+| Brand			:JBL
+| Model			:JBLGOBLK
+| Model Name		:Go
+| Model Year		:2015
+| Item Weight		:132 g
+| Product Dimensions	:8.3 x 6.8 x 3.1 cm
+| Batteries		:1 Lithium ion batteries required. (included)
+| Speaker Connectivity	:wireless
+| Audio Wattage		:3 Watts
+| Batteries Required	:Yes
+| Total Usb Ports	:1
+| Connector Type	:Bluetooth, Aux-in
+

@@ -1,0 +1,12 @@
+FEATURES :
+
+| Brand		:Adidas
+| Color		:Multicolour
+| Length	:8 Inches
+| Width		:8 Inches
+| Height	:8 Inches
+| Weight	:455 Grams
+| Shape		:Round
+| Size		:Size 5
+| Sport		:football
+| Style Name	:Match Soccer Ball

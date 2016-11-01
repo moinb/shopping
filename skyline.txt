@@ -1,0 +1,14 @@
+FEATURES :
+
+| Model Number  9507,
+| Item Height  36 Centimeters, Item Length  56 Centimeters,
+| Item Width   25 Centimeters, Item Weight  400 Grams,
+| Volume Capacity  50 Liters,
+| Material  Polyester,
+| Shell  Hybrid, Number of Wheels  2,
+| Special Features  Shoulder Strap, Padded Handles, Wheels, Zip Closure,
+| Closure  Zipper, Handle 	Extendable,
+| Inner Material 	Satin, Strap 	Adjustable,
+| Water Resistance  Water Resistant, Wear Resistance  Wear Resistant,
+| Warranty Description 	1 Year Warranty By Skyline For Zipper,
+| Warranty Type  Manufacturer .

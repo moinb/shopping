@@ -1,0 +1,18 @@
+FEATURES:
+
+| Band Colour 	Brown ,Band Material 	Leather,
+| Band Width  24 Millimeters, Brand 	Timex,
+| Case Diameter  37.7 Millimeters, Case Material 	Stainless Steel,
+| Clasp﻿ 	Buckle, Collection 	Expedition,
+| Dial Colour 	Beige,
+| Crystal Material﻿ 	Mineral, Display Type 	Analog-Digital,
+| Case Shape 	Round, Item Weight 	32 Grams,
+| Maximum Water Resistance Pressure 	10 Bars,
+| Model Number 	MF13, Part Number 	MF13,
+| Special Features:  Dual Time Display, Multi-layered Resin Case, Mineral Glass,
+| 		     24 Hours Chronograph Function with Lap or Split Option,
+| 		     Compass Directional Ring, Indiglo Night-light, Alarm Clock,
+| 		     Night-mode Feature, 24 Hour Countdown Timer,
+| Warranty Type 	Manufacturer Warranty,
+| Movement﻿ 	Quartz,
+| Water Resistance Depth 	50 Meters .

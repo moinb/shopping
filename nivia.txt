@@ -1,0 +1,11 @@
+FEATURES :
+
+| Brand			:Nivia
+| Outer-Material	:other
+| Sport			:running
+| Style Name		:Running Shoes
+| Outer material 	:mesh PU
+| Lifestyle 		:sports
+| Model name marathon, sole material rubber
+| Heel pattern polka print solid, upper pattern solid, heel height (inches) 25
+| In-Box Contents	:1 Running Shoes
